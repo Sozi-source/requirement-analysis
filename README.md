@@ -50,4 +50,9 @@ It ensures the final product meets the specified requirements, ensuring customer
       * It describes how the system should work, such as performance, security, scalability, usability, and reliability.
     
       ## Use Case Diagrams
+       - A use case diagram is a flow diagram that shows how different users(actors) interact with the system to achieve specific goals (use cases)
+     ### Benefits
+       - It provides a clear visual representation of the system functionalities.
+       - It helps identify and organise system requirements.
+       - It facilitates communication among stakeholders and the development team.
      
