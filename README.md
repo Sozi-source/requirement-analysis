@@ -48,3 +48,6 @@ It ensures the final product meets the specified requirements, ensuring customer
 
      #### Non-functional Requirements
       * It describes how the system should work, such as performance, security, scalability, usability, and reliability.
+    
+      ## Use Case Diagrams
+     
