@@ -55,4 +55,7 @@ It ensures the final product meets the specified requirements, ensuring customer
        - It provides a clear visual representation of the system functionalities.
        - It helps identify and organise system requirements.
        - It facilitates communication among stakeholders and the development team.
+    
+         ![Use Case Diagram](Diagram.png)
+         
      
