@@ -58,5 +58,13 @@ It ensures the final product meets the specified requirements, ensuring customer
     
          ![Use Case Diagram](Diagram.png)
 
+# Acceptance Criteria
+ * Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders
+ ### Example (for booking system)
+   **Given** user is on the booking page
+   **When** they select an available date and confirm booking
+   **Then** they sould  receive a confirmation email within 2 minutes
+   
+
          
      
