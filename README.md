@@ -14,3 +14,29 @@ It helps understand what the stakeholders expect from the system.
 It clearly defines the scope of the project, reducing the chances of scope creep.
 It enhances accurate estimation of project cost, resources, and time.
 It ensures the final product meets the specified requirements, ensuring customer satisfaction.
+
+## Key Activities in Requirement Analysis.
+  1. Requirement Gathering
+     It involves collecting data from the stakeholders using:
+     - Interviews
+     - Questionnaires
+     - workshop
+     - Observation
+     - Document analysis
+  3. Requirement Elicitation
+     - It involves conducting brainstorming sessions and focus group discussions with the stakeholders to generate ideas and gather requirements.
+     - Use of a prototype is also used to enhance system visualization and refine the requirements. 
+  5. Requirement Documentation
+     - It involves creating a detailed description of the system's functional and non-functional requirements.
+     - User stories are used to describe functionalities from the user's perspective.
+     - Use cases are used to show the interaction between the user and the system
+  7. Requirement Analysis and Modeling
+     -It involves:
+       * Requirements prioritization- based on the importance and impact on the project.
+       * Feasibility analysis- technical, financial, and time.
+       * Modelling- data models, e.g., data flow diagram to visualise and analyse the requirements.
+  9. Requirement Validation.
+      -It involves:
+       * Reviewing and approval of the requirements.
+       * Defining acceptance criteria for each requirement.
+       * Establish a traceability matrix to ensure all requirements are addressed during development.
