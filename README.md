@@ -44,7 +44,7 @@ It ensures the final product meets the specified requirements, ensuring customer
       ## Types of Requirements
 
         ## Functional Requirements
-               * It defines what the system should do. For example, user authentication, property search, booking system, and user registration.
+         * It defines what the system should do. For example, user authentication, property search, booking system, and user registration.
 
         ## Non-functional Requirements
-               * It describes how the system should work, such as performance, security, scalability, usability, and reliability.
+         * It describes how the system should work, such as performance, security, scalability, usability, and reliability.
